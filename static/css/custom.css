@@ -28,7 +28,7 @@
 }
 
 html {
-  # font-family: Roboto, serif; /* 1 */
+  font-family: Roboto, sans-serif; /* 1 */
   font-weight: 400;
   -ms-text-size-adjust: 100%; /* 2 */
   -webkit-text-size-adjust: 100%; /* 2 */
@@ -38,7 +38,7 @@ html {
 
 img.banner-img{
   opacity: 1;
-  width: 1400px;
+  width: 1200px;
 }
 
 
