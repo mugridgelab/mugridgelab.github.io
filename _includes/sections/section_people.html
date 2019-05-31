@@ -1,0 +1,39 @@
+
+<div id="{{section.group}}" class="section-anchor scrollspy"></div>
+
+<section id="{{section.group}}" class="row-full scrollspy" style="background-color:{{section.bgcolor}}">
+  <div class="container">
+    <div class="col-md-12">
+
+	<br>
+	<h3><strong>PEOPLE</strong></h3>
+	<br>      
+
+      <div class="row">
+
+       {% for person in site.data.members %}
+
+	<div class="col s3" style="text-align:center">
+
+	 <img class="circle member-photo" src="{{site.baseurl}}{{person.image}}" alt="{{person.name}}'s picture"></img>
+	  <strong>{{person.name | markdownify}}</strong>
+	  <i>{{person.position}}</i><br>
+	  <a href="mailto: {{person.email}}">{{person.email}}</a> <br>
+	{% if person.cv %}
+	  <a href="{{site.baseurl}}{{person.cv}}" target="_blank"> CV </a>
+	{% endif %}
+	  
+	</div>
+	{% endfor %}
+
+      </div>
+
+
+	{{ section.content }}
+
+	<br>
+	<br>
+
+    </div>
+  </div>
+</section>
