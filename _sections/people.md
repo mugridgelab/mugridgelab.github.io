@@ -11,12 +11,12 @@ group: people
 We're looking for curious, enthusiastic scientists with interests in chemistry, biochemistry, biophysics, and/or structural biology. Students in our lab use and learn a broad range of techniques including organic/inorganic synthesis, protein expression and purification, enzymology, RNA biochemistry, cell culture, macromolecular X-ray crystallography, mass spectrometry, NMR spectroscopy, and other biophysical assays.
 <br><br>
 
-<a href="mailto: mugridgelab@gmail.com">Contact us</a> for more information about these openings:
+<a href="mailto: mugridgelab@gmail.com"><strong>Contact us</strong></a> for more information about these openings:
 <br>
 <strong><em>Graduate Students</em></strong> in Chemistry & Biochemistry or other programs with interests at the interface of chemistry and biology.<br>
-<strong><em>Undergraduates</em></strong> interested in research during the academic year and over the Summer.<br>
-<strong><em>Research Associate/Technician</em></strong> with experience in protein purification and biochemical assays. Job posting coming soon.<br>
-<strong><em>Postdoctoral Researcher</em></strong> with experience in chemical biology, enzymology, structural biology, or synthetic biology are encouraged to apply. Job posting coming soon.
+<strong><em>Undergraduates</em></strong> interested in doing research during the academic year and over the Summer.<br>
+<strong><em>Research Technician</em></strong> with experience in protein purification and biochemical assays. Job posting coming soon.<br>
+<strong><em>Postdoctoral Researchers</em></strong> with experience in chemical biology, enzymology, structural biology, or synthetic biology are encouraged to apply. Job posting coming soon.
 <br><br>
 
 ##### <strong> Our values</strong>
