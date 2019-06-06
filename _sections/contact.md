@@ -9,6 +9,6 @@ group: contact
 
 ##### Mugridge Lab <br>
 ##### University of Delaware <br>
-##### Department of Chemistry and Biochemistry <br>
+##### Department of Chemistry and Biochemistry <br> 
 ##### Brown Laboratory <br>
 ##### Newark, DE 19711
