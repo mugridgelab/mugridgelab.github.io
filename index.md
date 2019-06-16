@@ -2,7 +2,7 @@
 title: THE<br>MUGRIDGE LAB
 subtitle: Understanding the chemical, structural, and molecular mechanisms that regulate RNA function in the cell.
 layout: parallaxbanner
-banner: '/static/img/d2-watercolor-long.jpg'
+banner: '/static/img/d2-watercolor-long-SM.jpg'
 group: home
 ---
 
