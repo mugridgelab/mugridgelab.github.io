@@ -80,7 +80,8 @@ opacity: 0.97;
   height: auto;
   color: rgba(255,255,255,.5);
 }
-  .parallax-container .section {`
+
+.parallax-container .section {`
     width: 100%;
   }
 
@@ -129,10 +130,10 @@ img.home-logo {
 
 img.member-photo {
   width: 150px;
-  
   -webkit-filter: grayscale(0%); 
   filter: grayscale(20%);
 }
+
 
 p {
   line-height: 2rem;
