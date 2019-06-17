@@ -8,8 +8,32 @@
  */
 
 
+.bg-img-style {
+
+	background: lightgrey url('/static/img/UD-campus-2-SM.jpg'); 
+	background-size: 100vw; 
+	background-repeat: no-repeat;
+}
+
+
+@media (max-width: 767px) {
+
+	.bg-img-style {
+
+	background: lightgrey url('/static/img/UD-campus-2-SM.jpg'); 
+	background-size: auto 100%; 
+	background-repeat: no-repeat;
+  }
+}
+
+
+
 @media (max-width : 767px) {
-	h4 {font-size: 0.5em;}
+	h3 {font-size: 16;}
+  }
+
+@media (max-width : 767px) {
+	h4 {font-size: 13.28px;}
   }
 
 .right {
