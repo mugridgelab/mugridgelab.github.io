@@ -11,7 +11,7 @@
 .bg-img-style {
 
 	background: lightgrey url('/static/img/UD-campus-2-SM.jpg'); 
-	background-size: 100vw; 
+	background-size: cover; 
 	background-repeat: no-repeat;
 }
 
@@ -23,13 +23,14 @@
 	background: lightgrey url('/static/img/UD-campus-2-SM.jpg'); 
 	background-size: auto 100%; 
 	background-repeat: no-repeat;
+	background-position: center center;
   }
 }
 
 
 
 @media (max-width : 767px) {
-	h3 {font-size: 16;}
+	h3 {font-size: 16px;}
   }
 
 @media (max-width : 767px) {
