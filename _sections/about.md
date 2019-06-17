@@ -13,7 +13,7 @@ Organisms across all domains of life decorate their RNA molecules with an incred
 <br><br>
 
 ##### <strong><em>How do we monitor diverse, dynamic changes to RNA in the cell?</em> 
-The cellular transcriptome is constantly in flux. New RNA molecules are rapidly synthesized, modified, translated, and degraded to control protein expression and respond to changes in cell environment and stress. Directly monitoring these changes in RNA composition, stability, and localization remains extremely challenging. <strong>Our lab is developing new chemical biology tools to detect, map, and visualize the dynamic life of RNA inside the cell.</strong>
+The cellular transcriptome is constantly in flux. New RNA molecules are rapidly synthesized, modified, translated, and degraded to control protein expression and respond to changes in cell environment and stress. Directly monitoring these changes in RNA composition, stability, and localization remains extremely challenging. <strong>Our lab is developing new tools to detect, map, and visualize the dynamic life of RNA inside the cell.</strong>
 <br>
 <br>
 <br>
