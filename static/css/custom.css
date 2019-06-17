@@ -8,6 +8,10 @@
  */
 
 
+@media (max-width : 767px) {
+	h4 {font-size: 0.5em;}
+  }
+
 .right {
 	text-align: right;
 }
