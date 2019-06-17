@@ -20,20 +20,20 @@
 
 	.bg-img-style {
 
-	background: lightgrey url('/static/img/UD-campus-2-SM.jpg');  
+	background: lightgrey url('/static/img/UD-campus-2-SM-mobile.jpg');  
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-size: cover; 
   }
 }
 
 
 
 @media (max-width : 767px) {
-	h5 {font-size: .75em;}
+	h5 {font-size: 2em;}
   }
 
 @media (max-width : 767px) {
-	h4 {font-size: 1.1em;}
+	h4 {font-size: 2.5em;}
   }
 
 .right {
