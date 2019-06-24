@@ -11,7 +11,7 @@ group: people
 We're looking for curious, enthusiastic scientists with interests in chemistry, biochemistry, biophysics, and/or structural biology. Students in our lab learn and use a broad range of techniques including organic/inorganic synthesis, protein expression and purification, enzymology, RNA biochemistry, cell culture, macromolecular X-ray crystallography, mass spectrometry, NMR spectroscopy, and other biophysical assays.
 <br><br>
 
-##### <strong><a href="mailto: mugridgelab@gmail.com">Contact us</a> for more information about these openings: </strong>
+##### <strong><a href="mailto: mugridge@udel.edu">Contact us</a> for more information about these openings: </strong>
 
 <strong><em>Graduate Students</em></strong> in Chemistry & Biochemistry or other programs with interests at the interface of chemistry and biology.<br>
 <strong><em>Undergraduates</em></strong> interested in doing research projects during the academic year and over the Summer.<br>
