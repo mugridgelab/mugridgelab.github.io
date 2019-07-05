@@ -16,7 +16,7 @@ We're looking for curious, enthusiastic scientists with interests in chemistry, 
 <strong><em>Graduate Students</em></strong> in Chemistry & Biochemistry or other programs with interests at the interface of chemistry and biology.<br>
 <strong><em>Undergraduates</em></strong> interested in doing research projects during the academic year and over the Summer.<br>
 <strong><em>Research Technician</em></strong> with experience in protein purification and biochemical assays. Job posting coming soon.<br>
-<strong><em>Postdoctoral Researchers</em></strong> with experience in chemical biology, enzymology, structural biology, or synthetic biology are encouraged to apply. Job posting coming soon.
+<strong><em>Postdoctoral Researchers</em></strong> with experience in chemical biology, enzymology, structural biology, or synthetic biology are encouraged to apply. [Learn more and apply here](https://careers.udel.edu/cw/en-us/job/494158/post-doctoral-fellow-chemistry-biochemistry){:target="_blank"}.
 <br><br>
 
 ##### <strong> Our values</strong>
