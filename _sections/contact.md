@@ -10,5 +10,6 @@ group: contact
 ##### Mugridge Lab <br>
 ##### University of Delaware <br>
 ##### Department of Chemistry and Biochemistry <br> 
-##### Brown Laboratory <br>
-##### Newark, DE 19711
+##### 169 Brown Laboratory <br>
+##### Newark, DE 19711 <br>
+##### (302) 831-3578 <br>
