@@ -1,6 +1,18 @@
 
 <div id="{{section.group}}" class="section-anchor scrollspy"></div>
 
+
+
+
+<div class="parallax-container sec-banner"> 
+      <div class="parallax"><img src={{site.baseurl}}{{section.banner}}>
+   
+	  </div>
+	</div>
+
+
+
+
 <section id="{{section.group}}" class="row-full scrollspy" style="background-color:{{section.bgcolor}}">
   <div class="container">
     <div class="col-md-12">
@@ -18,6 +30,15 @@
 	 <img class="circle member-photo" src="{{site.baseurl}}{{person.image}}" alt="{{person.name}}'s picture"></img>
 	  <strong>{{person.name | markdownify}}</strong>
 	  <i>{{person.position}}</i><br>
+
+       {% if person.CBI %}
+	  <a href="https://sites.udel.edu/cbi/" target="_blank"> CBI Program </a> <br>
+	{% endif %}
+
+       {% if person.CBC %}
+	  <a href="https://www.chem.udel.edu" target="_blank"> Chemistry & Biochemistry </a> <br>
+	{% endif %}
+
 	  <a href="mailto: {{person.email}}">{{person.email}}</a> <br>
 	{% if person.cv %}
 	  <a href="{{site.baseurl}}{{person.cv}}" target="_blank"> CV </a>

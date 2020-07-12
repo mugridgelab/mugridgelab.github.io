@@ -1,14 +1,23 @@
 - name: Jeffrey Mugridge, PhD
-  image: /static/img/people/jeff.jpg
+  image: /static/img/people/jeff-2.jpg
   position: Principal Investigator,<br>Assistant Professor 
   email: mugridge@udel.edu
   cv: /static/cv/mugridge-cv-2019.pdf
 
-- name: Graduate Students!
-  image: /static/img/people/anonmember.jpg
+- name: Angel D'Oliviera
+  image: /static/img/people/angel.jpg
+  position: Graduate Student
+  CBI: yes
+  email: adolivi@udel.edu
 
-- name: Postdoctoral Researchers!
-  image: /static/img/people/anonmember.jpg
+- name: Evan Geissler
+  image: /static/img/people/evan.jpg
+  position: Graduate Student
+  CBC: yes
+  email: egeiss@udel.edu
 
-- name: Research Associates!
-  image: /static/img/people/anonmember.jpg
+- name: Brittany Shimanski
+  image: /static/img/people/brittany.jpg
+  position: Graduate Student
+  CBI: yes
+  email: brittshim@udel.edu
