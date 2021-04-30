@@ -4,11 +4,17 @@
   email: mugridge@udel.edu
   cv: /static/cv/mugridge-cv-2019.pdf
 
+- name: Luke Calzini
+  image: /static/img/people/luke.jpg
+  position: Graduate Student
+  CBC: yes
+  email: lcalzini@udel.edu <br>
+
 - name: Angel D'Oliviera
   image: /static/img/people/angel.jpg
   position: Graduate Student
   CBI: yes
-  email: adolivi@udel.edu
+  email: adolivi@udel.edu <br>
 
 - name: Evan Geissler
   image: /static/img/people/evan.jpg
@@ -16,8 +22,17 @@
   CBC: yes
   email: egeiss@udel.edu
 
+- name: Emily Kagarise
+  image: /static/img/people/emily.jpg
+  position: Graduate Student,<br>Joint with C. Grimes Lab
+  CBC: yes
+  email: kagarise@udel.edu
+
 - name: Brittany Shimanski
   image: /static/img/people/brittany.jpg
   position: Graduate Student
   CBI: yes
   email: brittshim@udel.edu
+
+
+

@@ -1,6 +1,14 @@
 
 <div id="{{section.group}}" class="section-anchor scrollspy"></div>
 
+<!-- ORIGINAL
+<div class="parallax-container sec-banner"> 
+      <div class="parallax"><img src={{site.baseurl}}{{section.banner}}>
+   
+	  </div>
+	</div>
+-->
+
 
 <div class="parallax-container sec-banner"> 
       <div class="parallax"><img src={{site.baseurl}}{{section.banner}}>
@@ -21,7 +29,7 @@
 
        {% for person in site.data.members %}
 
-	<div class="col s12 m3" style="text-align:center">
+	<div class="col s12 m4" style="text-align:center; padding-top:35px;">
 
 	 <img class="circle member-photo" src="{{site.baseurl}}{{person.image}}" alt="{{person.name}}'s picture"></img>
 	  <strong>{{person.name | markdownify}}</strong>
