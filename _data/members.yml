@@ -4,11 +4,28 @@
   email: mugridge@udel.edu
   cv: /static/cv/mugridge-cv-2019.pdf
 
+- name: Suma Katta, PhD
+  image: /static/img/people/suma.jpg
+  position: Postdoctoral Researcher
+  email: suma@udel.edu <br> <br>
+
+- name: Kasun Abeyrathne
+  image: /static/img/people/kasun.jpg
+  position: Graduate Student
+  CBC: yes
+  email: kdabey@udel.edu <br>
+
 - name: Luke Calzini
   image: /static/img/people/luke.jpg
   position: Graduate Student
   CBC: yes
   email: lcalzini@udel.edu <br>
+
+- name: Celeste DiGennaro
+  image: /static/img/people/celeste.jpg
+  position: Graduate Student <br>joint with J. Bird Lab
+  CBI: yes
+  email: cdigenn@udel.edu
 
 - name: Angel D'Oliviera
   image: /static/img/people/angel.jpg
@@ -20,11 +37,11 @@
   image: /static/img/people/evan.jpg
   position: Graduate Student
   CBC: yes
-  email: egeiss@udel.edu
+  email: egeiss@udel.edu <br>
 
 - name: Emily Kagarise
   image: /static/img/people/emily.jpg
-  position: Graduate Student,<br>Joint with C. Grimes Lab
+  position: Graduate Student <br>joint with C. Grimes Lab
   CBC: yes
   email: kagarise@udel.edu
 
@@ -32,7 +49,22 @@
   image: /static/img/people/brittany.jpg
   position: Graduate Student
   CBI: yes
-  email: brittshim@udel.edu
+  email: brittshim@udel.edu <br>
+
+- name: Jasmin Bioteau
+  image: /static/img/people/jasmin.jpg
+  position: Undergraduate Student
+  email: jbioteau@udel.edu
+
+- name: Joseph Mild
+  image: /static/img/people/joseph.jpg
+  position: Undergraduate Student
+  email: joemild@udel.edu
+
+- name: Sophie Olson
+  image: /static/img/people/sophie.jpg
+  position: Undergraduate Student
+  email: sols@udel.edu
 
 
 

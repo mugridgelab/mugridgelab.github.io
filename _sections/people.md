@@ -3,7 +3,7 @@ title: People
 order: 2
 include: sections/section_people.html
 bgcolor: lightgrey 
-banner: '/static/img/JM-group-Apr2021.jpg'
+banner: '/static/img/JM-group-Apr2022.jpg'
 group: people
 ---
 
