@@ -39,12 +39,6 @@
   CBC: yes
   email: egeiss@udel.edu <br>
 
-- name: Emily Kagarise
-  image: /static/img/people/emily.jpg
-  position: Graduate Student <br>joint with C. Grimes Lab
-  CBC: yes
-  email: kagarise@udel.edu
-
 - name: Brittany Shimanski
   image: /static/img/people/brittany.jpg
   position: Graduate Student
@@ -54,7 +48,7 @@
 - name: Jasmin Bioteau
   image: /static/img/people/jasmin.jpg
   position: Undergraduate Student
-  email: jbioteau@udel.edu
+  email: jbioteau@udel.edu <br> <br>
 
 - name: Joseph Mild
   image: /static/img/people/joseph.jpg
