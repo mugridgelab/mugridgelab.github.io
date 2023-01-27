@@ -39,16 +39,17 @@
   CBC: yes
   email: egeiss@udel.edu <br>
 
+- name: Youmna Moawad
+  image: /static/img/people/youmna.jpg
+  position: Graduate Student
+  CBC: yes
+  email: ymoawad@udel.edu <br>
+
 - name: Brittany Shimanski
   image: /static/img/people/brittany.jpg
   position: Graduate Student
   CBI: yes
   email: brittshim@udel.edu <br>
-
-- name: Jasmin Bioteau
-  image: /static/img/people/jasmin.jpg
-  position: Undergraduate Student
-  email: jbioteau@udel.edu <br> <br>
 
 - name: Joseph Mild
   image: /static/img/people/joseph.jpg
