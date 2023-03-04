@@ -1,22 +1,26 @@
 <div id="{{section.group}}" class="section-anchor scrollspy"></div>
 
 <section id="{{section.group}}" class="row-full scrollspy" style="background-color:{{section.bgcolor}}">
-  <div class="container">
+
+<div class="container">
+
     <div class="col-md-12">
 
 	{{section.content}}  
 
 	{% for publication in site.data.publications  %}
 
-	<div> <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link:{{publication.pmid}}" target="_blank">{{publication.title}}.</a>
+	<div> <img src="{{site.baseurl}}{{publication.image}}"> </div>
 
-	<div>{{publication.authors}}. <b> {{publication.journal}} </b> </div>
+	<div> <a href="{{publication.address}}" alt = "pubmed link:{{publication.address}}" target="_blank">{{publication.title}}</a>
 
-	</div><br>
+	<div>{{publication.authors}} <b> {{publication.journal}} </b> </div>
+
+	</div>
 
 	{% endfor %}
 
-	<br>
+	<br> <br>
 
 	<div style="text-align: center"> <strong> For a complete list of publications see: <a href="https://www.ncbi.nlm.nih.gov/myncbi/16w2JLjfasDYxf/bibliography/public/" target="_blank"> PubMed </a> | <a href="https://scholar.google.com/	citations?user=QVt9l8IAAAAJ&hl=en" target="_blank"> Google Scholar </a> </strong> </div>
 

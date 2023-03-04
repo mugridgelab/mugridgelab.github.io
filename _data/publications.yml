@@ -1,35 +1,42 @@
+- title: Recognition and cleavage of human tRNA methyltransferase TRMT1 by the SARS-CoV-2 main protease
+  authors: D'Oliviera A, Dai X, Mottaghinia S, Geissler EP, Etienne L, Zhang Y, Mugridge JS*.
+  journal:  bioRxiv 2023
+  address: https://www.biorxiv.org/content/10.1101/2023.02.20.529306v1
+  image: /static/img/pubs/2023-TRMT1.png
+  num: 20
+
+- title: 
+  authors: <br> <em> Selected Publications Prior to UD </em>
+  journal:  
+  address: 
+  num: 
+
 - title: Structural and molecular mechanisms for the control of eukaryotic 5'-3' mRNA decay
-  authors: Mugridge JS, Coller J, Gross JD
+  authors: Mugridge JS, Coller J, Gross JD.
   journal:  Nature Structural and Molecular Biology 2018
-  pmid: 30518847
+  address: http://www.ncbi.nlm.nih.gov/pubmed/30518847
   num: 19
 
-- title: Decapping enzymes STOP "cancer" ribosomes in their tracks
-  authors: Mugridge JS, Gross JD
-  journal:  EMBO J 2018
-  pmid: 30455174
-  num: 18
-
 - title: Structure of the activated Edc1-Dcp1-Dcp2-Edc3 mRNA decapping complex with substrate analog poised for catalysis
-  authors: Mugridge JS, Tibble RW, Ziemniak M, Jemielity J, Gross JD
+  authors: Mugridge JS, Tibble RW, Ziemniak M, Jemielity J, Gross JD.
   journal:  Nature Communications 2018
-  pmid: 29559651
+  address: http://www.ncbi.nlm.nih.gov/pubmed/29559651
   num: 17
 
 - title: Application of a Schizosaccharomyces pombe Edc1-fused Dcp1-Dcp2 decapping enzyme for transcription start site mapping
-  authors: Paquette DR, Mugridge JS, Weinberg DE, Gross JD
+  authors: Paquette DR, Mugridge JS, Weinberg DE, Gross JD.
   journal: RNA 2018
-  pmid: 29101277
+  address: http://www.ncbi.nlm.nih.gov/pubmed/29101277
   num: 16
 
 - title: Structural basis of mRNA-cap recognition by Dcp1-Dcp2. Nature Structural & Molecular Biology
-  authors: Mugridge JS, Ziemniak M, Jemielity J, Gross JD
+  authors: Mugridge JS, Ziemniak M, Jemielity J, Gross JD.
   journal: Nature Structural and Molecular Biology 2016
-  pmid: 27694842
+  address: http://www.ncbi.nlm.nih.gov/pubmed/27694842
   num: 15
 
 - title: Two-headed tetraphosphate cap analogs are inhibitors of the Dcp1/2 RNA decapping complex
-  authors: Ziemniak M, Mugridge JS, Kowalska J, Rhoads RE, Gross JD, Jemielity J
+  authors: Ziemniak M, Mugridge JS, Kowalska J, Rhoads RE, Gross JD, Jemielity J.
   journal: RNA 2016 
-  pmid: 26826132
+  address: http://www.ncbi.nlm.nih.gov/pubmed/26826132
   num: 14
