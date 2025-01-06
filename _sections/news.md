@@ -7,4 +7,4 @@ group: news
 ---
 <br>
 ### <strong> NEWS
-For the latest group news, follow us on Twitter!
+For the latest group news, follow us on <a href="https://bsky.app/profile/mugridgelab.bsky.social" target="_blank">Bluesky</a>!

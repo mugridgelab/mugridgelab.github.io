@@ -27,23 +27,17 @@
   CBI: yes
   email: cdigenn@udel.edu
 
-- name: Angel D'Oliviera
-  image: /static/img/people/angel.jpg
-  position: Graduate Student
-  CBI: yes
-  email: adolivi@udel.edu <br>
-
-- name: Evan Geissler
-  image: /static/img/people/evan.jpg
-  position: Graduate Student
-  CBC: yes
-  email: egeiss@udel.edu <br>
-
 - name: Youmna Moawad
   image: /static/img/people/youmna.jpg
   position: Graduate Student
   CBC: yes
   email: ymoawad@udel.edu <br>
+
+- name: Paige Roehling
+  image: /static/img/people/paige.jpg
+  position: Graduate Student
+  CBC: yes
+  email: roehling@udel.edu <br>
 
 - name: Brittany Shimanski
   image: /static/img/people/brittany.jpg
@@ -51,10 +45,10 @@
   CBI: yes
   email: brittshim@udel.edu <br>
 
-- name: Sophie Olson
-  image: /static/img/people/sophie.jpg
+- name: Rebecca Payne
+  image: /static/img/people/rebecca.jpg
   position: Undergraduate Student
-  email: sols@udel.edu
+  email: rpayne@udel.edu
 
 
 
