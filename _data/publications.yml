@@ -1,3 +1,24 @@
+- title: Differential control of RNA demethylase activity and selectivity by cofactor ascorbate
+  authors: Calzini LO, Warminski M, Kowalska J, Jemielity J, Mugridge JS*.
+  journal:  bioRxiv 2025 <br> <br> <br>
+  address: https://www.biorxiv.org/content/10.1101/2025.05.06.652568v1
+  image: /static/img/pubs/2025-ascorbate.png
+  num: 23 
+
+- title: RNA demethylase FTO uses conserved aromatic residues to recognize the mRNA 5' cap and promote efficient m6Am demethylation
+  authors: Shimanski B, Marin JF, Warminski M, McKeon RM, Kowalska J, Jemielity J, Hadden-Perilla JA*, Mugridge JS*.
+  journal:  bioRxiv 2025 <br> <br> <br>
+  address: https://www.biorxiv.org/content/10.1101/2025.05.09.653100v1
+  image: /static/img/pubs/2025-FTO-cap-recog.png
+  num: 22 
+
+- title: Elp3 uses a conserved molecular tunnel to transport acetate between distant active sites and catalyze tRNA wobble base modification
+  authors: Geissler EP, Moawad Y, Roehling P, Martin K, Asare-Okai PN, Mugridge JS*.
+  journal:  bioRxiv 2025 <br> <br> <br>
+  address: https://www.biorxiv.org/content/10.1101/2025.05.07.652618v1
+  image: /static/img/pubs/2025-Elp3.png
+  num: 21
+
 - title: Recognition and cleavage of human tRNA methyltransferase TRMT1 by the SARS-CoV-2 main protease
   authors: D'Oliviera A, Dai X, Mottaghinia S, Olson S, Geissler EP, Etienne L, Zhang Y, Mugridge JS*.
   journal:  eLife 2025

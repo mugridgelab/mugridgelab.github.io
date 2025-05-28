@@ -15,6 +15,12 @@
   CBC: yes
   email: kdabey@udel.edu <br>
 
+- name: Harrison Bernhard
+  image: /static/img/people/harrison.jpg
+  position: Graduate Student
+  CBI: yes
+  email: hbernhar@udel.edu  <br>
+
 - name: Luke Calzini
   image: /static/img/people/luke.jpg
   position: Graduate Student
@@ -22,7 +28,7 @@
   email: lcalzini@udel.edu <br>
 
 - name: Celeste DiGennaro
-  image: /static/img/people/celeste.jpg
+  image: /static/img/people/celeste-2.jpg
   position: Graduate Student <br>joint with J. Bird Lab
   CBI: yes
   email: cdigenn@udel.edu
@@ -44,6 +50,11 @@
   position: Graduate Student
   CBI: yes
   email: brittshim@udel.edu <br>
+
+- name: Cassidy Driscoll
+  image: /static/img/people/cassidy.jpg
+  position: Undergraduate Student
+  email: cassidyd@udel.edu <br>
 
 - name: Rebecca Payne
   image: /static/img/people/rebecca.jpg
