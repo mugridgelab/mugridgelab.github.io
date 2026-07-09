@@ -47,9 +47,14 @@
   }
 
 .flex {
-	display: flex;
-	flex-wrap: wrap:
-  }
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.flex > .col {
+  float: none;
+}
 
 
 .section-anchor {
@@ -130,7 +135,7 @@ opacity: 0.97;
 
 
 
-.parallax-container .section {`
+.parallax-container .section {
     width: 100%;
   }
 

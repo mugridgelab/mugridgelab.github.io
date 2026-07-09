@@ -2,12 +2,7 @@
   image: /static/img/people/jeff-2.jpg
   position: Principal Investigator,<br>Assistant Professor 
   email: mugridge@udel.edu
-  cv: /static/cv/mugridge-cv-2019.pdf
-
-- name: Suma Katta, PhD
-  image: /static/img/people/suma.jpg
-  position: Postdoctoral Researcher
-  email: suma@udel.edu <br> <br>
+  cv: /static/cv/mugridge-cv-2026.pdf
 
 - name: Kasun Abeyrathne
   image: /static/img/people/kasun.jpg
@@ -21,12 +16,6 @@
   CBI: yes
   email: hbernhar@udel.edu  <br>
 
-- name: Luke Calzini
-  image: /static/img/people/luke.jpg
-  position: Graduate Student
-  CBC: yes
-  email: lcalzini@udel.edu <br>
-
 - name: Celeste DiGennaro
   image: /static/img/people/celeste-2.jpg
   position: Graduate Student <br>joint with J. Bird Lab
@@ -39,27 +28,37 @@
   CBC: yes
   email: ymoawad@udel.edu <br>
 
+- name: Nathan Podgurski
+  image: /static/img/people/nathan.jpg
+  position: Graduate Student
+  CBC: yes
+  email: podgursn@udel.edu <br>
+
 - name: Paige Roehling
   image: /static/img/people/paige.jpg
   position: Graduate Student
   CBC: yes
   email: roehling@udel.edu <br>
 
-- name: Brittany Shimanski
-  image: /static/img/people/brittany.jpg
-  position: Graduate Student
-  CBI: yes
-  email: brittshim@udel.edu <br>
-
-- name: Cassidy Driscoll
-  image: /static/img/people/cassidy.jpg
+- name: Lana Kelly
+  image: /static/img/people/lana.jpg
   position: Undergraduate Student
-  email: cassidyd@udel.edu <br>
+  email: lanamkel@udel.edu <br>
 
 - name: Rebecca Payne
   image: /static/img/people/rebecca.jpg
   position: Undergraduate Student
-  email: rpayne@udel.edu
+  email: rpayne@udel.edu <br>
+
+- name: Samantha Plank
+  image: /static/img/people/samantha.jpg
+  position: Undergraduate Student
+  email: slplank@udel.edu <br>
+
+- name: Sydney Ziemba
+  image: /static/img/people/sydney.jpg
+  position: Undergraduate Student
+  email: sziemba@udel.edu 
 
 
 
