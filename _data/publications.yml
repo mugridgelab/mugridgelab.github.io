@@ -1,50 +1,50 @@
+- title: RNA demethylase FTO uses conserved aromatic residues to recognize the mRNA 5' cap and promote efficient m6Am demethylation
+  authors: Shimanski B<sup>&dagger;</sup>, Marin JF<sup>&dagger;</sup>, Warminski M, Eluwawalage KDA, Calzini LO, McKeon RM, Kowalska J, Jemielity J, Hadden-Perilla JA*, Mugridge JS*.
+  journal:  Journal of Biological Chemistry 2026 <br> <br> <br>
+  address: https://www.jbc.org/article/S0021-9258(26)02445-2/fulltext
+  image: /static/img/pubs/2025-FTO-cap-recog.png
+  num: 27
+
 - title: Elp3 uses a conserved molecular tunnel to transport acetate between distant active sites and catalyze tRNA wobble base modification
   authors: Geissler EP<sup>&dagger;</sup>, Moawad Y<sup>&dagger;</sup>, Roehling PN, Driscoll C, Martin K, Asare-Okai PN, Mugridge JS*.
   journal:  Nature Communications 2026 <br> <br> <br>
   address: https://www.nature.com/articles/s41467-026-73699-5
   image: /static/img/pubs/2026-Elp3.png
-  num: 27
+  num: 26
 
 - title: A novel covalent inhibitor fragment for the SARS-CoV-2 main protease identified by target-specific deep learning
   authors: Zhou W<sup>&dagger;</sup>, D'Oliviera A<sup>&dagger;</sup>, Dai X, Mugridge JS*, Zhang Y*.
   journal:  ACS Chemical Biology 2026 <br> <br> <br>
   address: https://pubs.acs.org/doi/10.1021/acschembio.6c00120
   image: /static/img/pubs/2026-Mpro-inhib-graphic.png
-  num: 26
+  num: 25
 
 - title: How ascorbate tunes the activity and substrate selectivity of Fe(II)-dependent dioxygenase superfamily enzymes
   authors: Calzini LO, Warminski M, Kowalska J, Jemielity J, Mugridge JS*.
   journal:  bioRxiv 2026 <br> <br> <br>
   address: https://www.biorxiv.org/content/10.1101/2025.05.06.652568v2
   image: /static/img/pubs/2026-ascorbate-graphic.png
-  num: 25 
+  num: 24 
 
 - title: FTO separation-of-function mutations alter m6A versus m6Am demethylation selectivity on RNA
   authors: Eluwawalage KDA, Shimanski B, Warminski M, Katta S, Payne R, Yu Y, Kowalska J, Jemielity J, Mugridge JS*.
   journal:  bioRxiv 2026 <br> <br> <br>
   address: https://www.biorxiv.org/content/10.64898/2026.05.19.726201v1
   image: /static/img/pubs/2026-FTO-tools-graphic.png
-  num: 24 
+  num: 23 
 
 - title: Mapping the interactome of human tRNA methyltransferase TRMT1 using dual proximity labeling
   authors: D'Oliviera A<sup>&dagger;</sup>, Olson S<sup>&dagger;</sup>, Bernhard H, Yu Y*, Mugridge JS*.
   journal:  bioRxiv 2026 <br> <br> <br>
   address: https://www.biorxiv.org/content/10.64898/2026.05.18.725941v1
   image: /static/img/pubs/2026-TRMT1-interactome-graphic.png
-  num: 23
+  num: 22
 
 - title: The Escherichia coli Radical SAM Enzyme YhcC Substitutes for the FAD-Dependent Oxidase Activity of MnmC in 5-Methylaminomethyl-2-Thiouridine tRNA Modification Under Anaerobic Conditions
   authors: Boswinkle K<sup>&dagger;</sup>, Roehling PN<sup>&dagger;</sup>, Narakorn J, Carell T, Dziergowska A, Dos Santos P, Mugridge JS, de Crecy-Lagard V*.
   journal:  bioRxiv 2026 <br> <br> <br>
   address: https://www.biorxiv.org/content/10.64898/2026.05.18.725915v1
   image: /static/img/pubs/2026-YhcC-graphic.jpg
-  num: 22  
-
-- title: RNA demethylase FTO uses conserved aromatic residues to recognize the mRNA 5' cap and promote efficient m6Am demethylation
-  authors: Shimanski B, Marin JF, Warminski M, McKeon RM, Kowalska J, Jemielity J, Hadden-Perilla JA*, Mugridge JS*.
-  journal:  bioRxiv 2025 <br> <br> <br>
-  address: https://www.biorxiv.org/content/10.1101/2025.05.09.653100v1
-  image: /static/img/pubs/2025-FTO-cap-recog.png
   num: 21
 
 - title: Recognition and cleavage of human tRNA methyltransferase TRMT1 by the SARS-CoV-2 main protease
